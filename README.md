@@ -20,6 +20,8 @@ HMCL的寻找Java机制有一点点bug, 只会去寻找在PATH中的Java, 并不
 
 ## 配置文件
 
+> 目录中的`\`一律替换为两个`\`,即为`\\`, 或使用`/`
+
 文件位置(Jar包内路径): `com/nkwjg/hmclfix/java/jlist.properties`
 
 ```properties
