@@ -37,7 +37,7 @@ public class HMCLLauncher {
         }
         FileWriter batFile = new FileWriter("./hmclfixlastlaunch.bat");
         String hmclDir = hmclFile.toPath().getParent().toString();
-        String batCommand = "@echo off\n" + setCommand + "\ncd /d" + hmclDir + "\n" + command;
+        String batCommand = "@echo off\n" + setCommand + "\ncd /d " + hmclDir + "\n" + command;
         batFile.write(batCommand);
         System.out.println(batCommand);
         batFile.close();
