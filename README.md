@@ -2,6 +2,8 @@
 
 > 考虑到HMCL还有外国人用, 到时候会写别的语言的文档
 
+中国用户[点我使用加速源下载(最新版)](https://link.nutscity.tk/hmclfixlast)
+
 ## 这是什么
 
 HMCL的寻找Java机制有一点点bug, 只会去寻找在PATH中的Java, 并不会像PCL一样去寻找网易/不在PATH中的Java
