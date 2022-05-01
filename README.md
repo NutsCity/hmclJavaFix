@@ -12,7 +12,7 @@ HMCL的寻找Java机制有一点点bug, 只会去寻找在PATH中的Java, 并不
 
 ## 内部HMCL
 
-因为黄鱼好像卷钱跑路了, 官网已经无法访问, 我把HMCL放在了以下路径`com/nkwjg/hmclfix/hmcllib/HMCL.jar`
+嫌域通网盘垃圾可以在以下路径寻找到HMCL的最新版`com/nkwjg/hmclfix/hmcllib/HMCL.jar`
 
 ## HMCL更新问题
 
